@@ -1,0 +1,27 @@
+
+[
+    {
+        "id": "1",
+        "img_link":"./images/product-2.jpg",
+        "product_name": "Red Rahul T-Shirt",
+        "product_price": "$51.23"
+    },
+    {
+        "id": "2",
+        "img_link":"./images/product-2.jpg",
+        "product_name": "Red Rahul T-Shirt",
+        "product_price": "$51.23"
+    },
+    {
+        "id": "3",
+        "img_link":"./images/product-3.jpg",
+        "product_name": "Red Rahul T-Shirt",
+        "product_price": "$51.23"
+    },
+    {
+        "id": "4",
+        "img_link":"./images/product-4.jpg",
+        "product_name": "Red Rahul T-Shirt",
+        "product_price": "$54.23"
+    }
+]
